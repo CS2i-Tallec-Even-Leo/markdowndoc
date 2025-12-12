@@ -1,0 +1,14 @@
+```plsql
+CREATE OR REPLACE FUNCTION liste4() RETURNS VOID
+AS 
+$$
+DECLARE
+I INT := 100; 
+BEGIN
+	WHILE i >= 100 AND i <= 200 LOOP
+		RAISE INFO '%', i;
+		i=i+4;
+	END LOOP;
+END;
+$$ LANGUAGE plpgsql;
+```

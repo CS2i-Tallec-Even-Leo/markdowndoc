@@ -1,0 +1,18 @@
+```plsql
+
+SET SEARCH_PATH TO video;
+
+CREATE OR REPLACE FUNCTION liste1() RETURNS VOID
+AS 
+$$
+BEGIN
+	FOR i IN 100..200 LOOP
+		RAISE INFO '%', i;
+END LOOP;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT liste1();
+
+```
+

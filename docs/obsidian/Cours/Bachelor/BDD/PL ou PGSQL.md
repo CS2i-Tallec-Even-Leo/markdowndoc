@@ -1,0 +1,5 @@
+- PL/PGSQL c'est mieux que du SQL
+- language compilé côté serveur
+- apporte les notions de variable,conditions,boucles,traitement d'erreurs
+- L'exécution de PL/pgSQL est plus performante que l'exécution de plusieurs blocs SQL
+- Équivalent de Transac SQL (ou T-SQL) chez Microsoft ou de PL/SQL sur Oracle 
