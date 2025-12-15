@@ -1,27 +1,26 @@
 # 1 Limites planétaires : les enjeux
+
 ## 1.1 Unique et fragile
 
-Terre : 
-	107 000km/h
-	Atmosphère
-	température stable
-	écosystèmes
-	Exception système solaire 
+Terre :
+107 000km/h
+Atmosphère
+température stable
+écosystèmes
+Exception système solaire
 
+Effet de Serre :
 
-Effet de Serre : 
-
-![[Pasted image 20251021093535.png]]
+![](fichier/Pasted image 20251021093535.png)
 
 CO2 : Dioxyde de Carbone
 CH4 : Méthane
 
-Réchauffement globale : 
- 
-1.2° d'augmentation par rapport à la moyenne avant la révolution industrielle (1950) 
+Réchauffement globale :
 
+1.2° d'augmentation par rapport à la moyenne avant la révolution industrielle (1950)
 
-![[Pasted image 20251021093813.png]]
+![](fichier/Pasted image 20251021093813.png)
 
 annoncer +4° en 2100
 
@@ -36,27 +35,21 @@ Empreinte Carbone : Compte les importations et la mondialisation
 
 ## 1.2 Exponentiel
 
-Énergie de substitution : inexistant par rapport aux énergies fossile 
+Énergie de substitution : inexistant par rapport aux énergies fossile
 
-![[Pasted image 20251021095446.png]]
+![](fichier/Pasted image 20251021095446.png)
 
-
-Accord de Paris 2015 : 
+Accord de Paris 2015 :
 
 2050 Neutralité Carbonne -5% tout les ans (équivalent de diminution au Covid19)
 
+![](fichier/Pasted image 20251021100345.png)
 
-![[Pasted image 20251021100345.png]]
+![](fichier/Pasted image 20251021100450.png)https://jancovici.com/changement-climatique/les-ges-et-nous/comment-evoluent-actuellement-les-emissions-de-gaz-a-effet-de-serre/
 
+Déchets plastique collectés 15% monde 30% europe
 
-![[Pasted image 20251021100450.png]]https://jancovici.com/changement-climatique/les-ges-et-nous/comment-evoluent-actuellement-les-emissions-de-gaz-a-effet-de-serre/
-
-
-Déchets plastique collectés 15% monde 30% europe 
-
-
-
-![[Pasted image 20251021101622.png]]
+![](fichier/Pasted image 20251021101622.png)
 
 Impact : Destruction des sols, déforestation, pollution des millieux
 
@@ -67,19 +60,13 @@ Impact : Destruction des sols, déforestation, pollution des millieux
 - L'obésité tue trois fois plus de personnes que la malnutrition à l'échelle du monde
 - 9% des décès en France, soit 48000 décès
 - 800.000 morts par an en Europe et 8.8M dans le monde dont 3M en Chine
-![[Pasted image 20251021102630.png]]
-
-
-
+  ![](fichier/Pasted image 20251021102630.png)
 
 ## 1.3 Energies
 
-![[Pasted image 20251021110754.png]]
+![](fichier/Pasted image 20251021110754.png)
 
-
-
-
-![[Pasted image 20251021111527.png]]
+![](fichier/Pasted image 20251021111527.png)
 
 https://app.electricitymaps.com/map/live/fifteen_minutes
 
@@ -93,24 +80,20 @@ Renouvelable : Une énergie est renouvelable si elle se renouvèle à l'échelle
 
 Quel énergies consomment on en France ?
 
-![[Pasted image 20251021112620.png]]
-
+![](fichier/Pasted image 20251021112620.png)
 
 ## 1.4 Energies primaire. Energies finales
 
+![](fichier/Pasted image 20251021114126.png)
 
-![[Pasted image 20251021114126.png]]
+Depuis les accords de paris :
 
-
-Depuis les accords de paris : 
-
-
-Augmentation du charbon, gaz 
-diminution OIL, 
+Augmentation du charbon, gaz
+diminution OIL,
 
 ### Du Charbon : Pourquoi faire ?
 
-![[Pasted image 20251021114931.png]]
+![](fichier/Pasted image 20251021114931.png)
 
 10kWh : 10kw pendant 1h
 
@@ -124,30 +107,28 @@ Eolienne en mer : ~15
 
 Comment obtient-on 10kWh (3.6MJ) ?
 
-- 1 Litre de pétrole 
+- 1 Litre de pétrole
 - 3kg de Bûches
 - 1 Panneau solaire sur une semaine (Variable)
 
 Comment on consomme 1kW/h d'éléctricité ?
 
 Sèche-linge : 350kWh
-Cafetière : 
+Cafetière :
 PC (actif): 50 à 100 kWh
-Ordinateur (en veille) : 
-
+Ordinateur (en veille) :
 
 https://www.rte-france.com/eco2mix
 
-Aujourd'hui : 
-![[Pasted image 20251021120935.png]]
+Aujourd'hui :
+![](fichier/Pasted image 20251021120935.png)
 
-### Emission Carbone 
+### Emission Carbone
 
 Pourquoi émission Carbone ?
 
-
 https://nosgestesclimat.fr/fin?featureFlagKey=a-b-test-cta-nav-je-ne-sais-pas&abTestVariant=test&deviceType=desktop&iframe=false
-![[Pasted image 20251021142542.png]]
+![](fichier/Pasted image 20251021142542.png)
 
 Terre rares
 
@@ -155,8 +136,7 @@ Terre rares
 
 Lié au numérique :
 
-![[Pasted image 20251021143915.png]]
-
+![](fichier/Pasted image 20251021143915.png)
 
 | Gens    | Score            |
 | ------- | ---------------- |
@@ -171,9 +151,6 @@ Lié au numérique :
 | Kevin   | 6.7              |
 | Total   | 7.85666666666667 |
 
-
-![[Pasted image 20251021162457.png]]
-
-
+![](fichier/Pasted image 20251021162457.png)
 
 de 1.3 à 1.6 ???? puis 1.5 puis 1.9

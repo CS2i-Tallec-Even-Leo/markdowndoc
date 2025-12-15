@@ -70,8 +70,6 @@
 
 **Équipements :** les logiciels et applications
 
-  
-
 ## Les câbles
 
 ### Fibre VS Cuivre
@@ -122,9 +120,9 @@ On les représente en hexadécimale, et on les sépare avec des tirets, deux poi
 
 l'adresse MAC peut être coupée en deux parties de 24 bits chacune.
 
- - Partie OUI : (Organizationnally Unique Identifier) : 24 premiers, identifie le constructeur
+- Partie OUI : (Organizationnally Unique Identifier) : 24 premiers, identifie le constructeur
 
- - Partie NIC : (Network Interface Controller) : identifie l'appareil
+- Partie NIC : (Network Interface Controller) : identifie l'appareil
 
 ### Les types d'adresses
 
@@ -138,7 +136,7 @@ Gérée par le commutateur (switch), pas besoin d'intervention humaine.
 
 Elle indique quelle adresse MAC des trames reçues correspond à quel port.
 
-![[Pasted image 20241203095837.png]]
+![](fichier/Pasted image 20241203095837.png)
 
 ### Les équipements de niveau 2
 
@@ -182,7 +180,7 @@ Elle est constituée d'une IP et de l'adresse MAC associée.
 
 Elle est générée automatiquement, sans intervention humaine.
 
-![[Pasted image 20241203101849.png]]
+![](fichier/Pasted image 20241203101849.png)
 
 ## Routage
 
@@ -192,7 +190,7 @@ La structure d’une table de routage contient des entrées nécessaires concern
 
 Les entrées peuvent être manuelles/statiques, et donc faites par l'administrateur (intervention humaine).
 
-![[Pasted image 20241203102732.png]]
+![](fichier/Pasted image 20241203102732.png)
 
 ## Commandes Microsoft
 

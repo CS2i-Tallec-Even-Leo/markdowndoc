@@ -31,7 +31,7 @@ Externe non contractuelle : voisinage, concurrence
 
 Matrice de Matérialité :
 
-![[Pasted image 20251022110510.png]]
+![](fichier/Pasted image 20251022110510.png)
 
 Dans Enjeux Cruciaux on retrouvera : Client Employés (Fournisseur)
 Dans Majeurs : (Fournisseur)
@@ -39,6 +39,6 @@ Dans le reste : Actionnaires Etat Banque
 
 Exemple concret :
 
-![[Pasted image 20251022110845.png]]
+![](fichier/Pasted image 20251022110845.png)
 
 Charte NR : https://charter.isit-europe.org/wp-content/uploads/statique/documents_charte_NR/charte_neutre_FR.pdf
